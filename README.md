@@ -1,0 +1,1 @@
+# Swing-Trading-Forex-EA-MT4-Case-Study
