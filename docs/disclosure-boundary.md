@@ -3,7 +3,7 @@
 The public case study intentionally excludes:
 
 - client identity and usernames;
-- private conversations and dispute material;
+- private engagement correspondence;
 - payment or contract information;
 - account numbers, broker credentials, VPS identifiers, and MetaQuotes IDs;
 - production MQL4 source code;
